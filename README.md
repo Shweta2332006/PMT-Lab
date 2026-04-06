@@ -19,5 +19,5 @@ This Repository is created for Project management Tools lab to Explore Github fe
 - Week 2:Repository creation and folder structure
 - Week 3:GitHub Exploration and documentation
 
-- This is my first Pull Request
+- This is my first pull request
   
